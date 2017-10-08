@@ -32,7 +32,7 @@
     * - [ ] Edinburgh
         * - [ ] Look into financial aid
 * - [ ] Read
-    * - [x] Count of Monte Cristo
+    * - [ ] Count of Monte Cristo
     * - [ ] Fundamentals of Number Theory
     * - [ ] Hamilton
     * - [ ] Homegoing
