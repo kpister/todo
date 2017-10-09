@@ -2,6 +2,7 @@
 
 * - [ ] Work on kaiser.cloud
     * - [x] get it set up
+    * - [ ] read more commit pages
     * - [ ] connect to a database (Goal Oct 15th)
         * - [ ] locally
         * - [ ] remotely (on heroku)
