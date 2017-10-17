@@ -47,5 +47,10 @@
 * - [ ] CHEI Lab
     * - [x] Research Abstract
     * - [ ] Presentation (October 31st)
+* - [ ] Get oil changed
+* - [ ] Deian Research
+    * - [ ] Look into go-wrk
+    * - [ ] Start some benchmarks
+    * - [ ] Write a paper
 
 
