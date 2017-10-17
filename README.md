@@ -3,9 +3,9 @@
 * - [ ] Work on kaiser.cloud
     * - [x] get it set up
     * - [ ] read more commit pages
-    * - [ ] connect to a database (Goal Oct 15th)
-        * - [ ] locally
-        * - [ ] remotely (on heroku)
+    * - [x] connect to a database (Goal Oct 15th)
+        * - [x] locally
+        * - [x] remotely (on heroku)
     * - [ ] p'' (Goal Oct 22nd)
         * - [ ] hit some routes
         * - [ ] create session keys in database
@@ -15,7 +15,7 @@
     * - [ ] Add front end
         * - [ ] learn front end?
         * - [ ] try to bootstrap without performance hit?
-    * - [ ] upgrade to heroku hobby
+    * - [x] upgrade to heroku hobby
 * - [ ] Draft a proposal for Linguistics Research (Goal December/February)
     * - [ ] Come up with idea for linguistics research
     * - [ ] Read more linguistics books
@@ -23,7 +23,7 @@
     * - [ ] make kaiser.cloud more functional (optional)
     * - [ ] Pixar
     * - [ ] Google
-        * - [ ] Contact Kishan
+        * - [x] Contact Kishan
     * - [ ] update resume?
 * - [ ] Grad school applications
     * - [ ] get started on new research with Deian
@@ -45,7 +45,7 @@
 * - [ ] COGS 181
     * - [ ] Final project
 * - [ ] CHEI Lab
-    * - [ ] Research Abstract
+    * - [x] Research Abstract
     * - [ ] Presentation (October 31st)
 
 
