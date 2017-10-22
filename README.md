@@ -2,7 +2,7 @@
 
 * - [ ] Work on kaiser.cloud
     * - [x] get it set up
-    * - [ ] read more commit pages
+    * - [x] read more commit pages
     * - [x] connect to a database (Goal Oct 15th)
         * - [x] locally
         * - [x] remotely (on heroku)
@@ -13,20 +13,20 @@
         * - [ ] create front end
         * - [ ] think more... 
     * - [ ] Add front end
-        * - [ ] learn front end?
-        * - [ ] try to bootstrap without performance hit?
+        * - [x] learn front end?
+        * - [x] try to bootstrap without performance hit?
     * - [x] upgrade to heroku hobby
 * - [ ] Draft a proposal for Linguistics Research (Goal December/February)
     * - [ ] Come up with idea for linguistics research
     * - [ ] Read more linguistics books
 * - [ ] Send job applications out
-    * - [ ] make kaiser.cloud more functional (optional)
+    * - [x] make kaiser.cloud more functional (optional)
     * - [ ] Pixar
-    * - [ ] Google
+    * - [x] Google
         * - [x] Contact Kishan
-    * - [ ] update resume?
+    * - [x] update resume?
 * - [ ] Grad school applications
-    * - [ ] get started on new research with Deian
+    * - [x] get started on new research with Deian
     * - [ ] UC Berkeley (Dec 15th, Goal Dec 1st)
     * - [ ] Stanford (Dec 5th, Goal Nov 28th)
     * - [ ] UC San Diego (Dec 18th, Goal Dec 2nd)
@@ -39,7 +39,7 @@
     * - [ ] Homegoing
     * - [ ] The Source
 * - [ ] Ethnio
-    * - [ ] Swap to Puma webserver (Goal: 2 weeks)
+    * - [x] Swap to Puma webserver (Goal: 2 weeks)
 * - [ ] CGS 2A
     * - [ ] [ ] [ ] [ ] Reflection papers
 * - [ ] COGS 181
@@ -49,8 +49,8 @@
     * - [ ] Presentation (October 31st)
 * - [ ] Get oil changed
 * - [ ] Deian Research
-    * - [ ] Look into go-wrk
-    * - [ ] Start some benchmarks
+    * - [x] Look into go-wrk
+    * - [x] Start some benchmarks
     * - [ ] Write a paper
 
 
