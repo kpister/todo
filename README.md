@@ -1,32 +1,24 @@
 # Todo list:
 
 * - [ ] Work on kaiser.cloud
-    * - [x] get it set up
-    * - [x] read more commit pages
-    * - [x] connect to a database (Goal Oct 15th)
-        * - [x] locally
-        * - [x] remotely (on heroku)
-    * - [ ] p'' (Goal Oct 22nd)
+    * - [ ] p''/brainscrew (Goal Oct 22nd)
         * - [ ] hit some routes
         * - [ ] create session keys in database
         * - [ ] start storing information
         * - [ ] create front end
         * - [ ] think more... 
     * - [ ] Add front end
-        * - [x] learn front end?
-        * - [x] try to bootstrap without performance hit?
-    * - [x] upgrade to heroku hobby
+        * - [ ] add readme parsing for project pages
 * - [ ] Draft a proposal for Linguistics Research (Goal December/February)
     * - [ ] Come up with idea for linguistics research
     * - [ ] Read more linguistics books
 * - [ ] Send job applications out
-    * - [x] make kaiser.cloud more functional (optional)
     * - [ ] Pixar
     * - [x] Google
         * - [x] Contact Kishan
-    * - [x] update resume?
+        * - [ ] wait
 * - [ ] Grad school applications
-    * - [x] get started on new research with Deian
+    * - [ ] acquire letters of rec
     * - [ ] UC Berkeley (Dec 15th, Goal Dec 1st)
     * - [ ] Stanford (Dec 5th, Goal Nov 28th)
     * - [ ] UC San Diego (Dec 18th, Goal Dec 2nd)
@@ -34,23 +26,17 @@
         * - [ ] Look into financial aid
 * - [ ] Read
     * - [ ] Fundamentals of Number Theory
-    * - [x] Count Of Monte Cristo
     * - [ ] Hamilton
-    * - [ ] Homegoing
+    * - [x] Homegoing
     * - [ ] The Source
-* - [ ] Ethnio
-    * - [x] Swap to Puma webserver (Goal: 2 weeks)
-* - [ ] CGS 2A
-    * - [ ] [ ] [ ] [ ] Reflection papers
 * - [ ] COGS 181
     * - [ ] Final project
 * - [ ] CHEI Lab
-    * - [x] Research Abstract
-    * - [ ] Presentation (October 31st)
-* - [ ] Get oil changed
-* - [ ] Deian Research
-    * - [x] Look into go-wrk
-    * - [x] Start some benchmarks
+    * - [x] Presentation (October 31st)
+    * - [ ] find 3D model comparison representation
+    * - [ ] use agisoft to automate stitching
+* - [x] Get oil changed
+* - [ ] Deian Research; https://github.com/kpister/go2wrk
     * - [ ] Write a paper
 
 
