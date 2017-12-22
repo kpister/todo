@@ -1,4 +1,10 @@
-# Todo list:
+# TODO List
+
+A simple repo for me to keep track of what I have done using git.
+
+It is open source in case anyone wants to know what fun things I've been up to!
+
+# Todo
 
 * - [ ] Work on kaiser.cloud
     * - [ ] p''/brainscrew (Goal Oct 22nd)
@@ -33,3 +39,5 @@
         * - [ ] Learn Style Transfer of images
         * - [ ] Implement
         
+# Tags
+personal
