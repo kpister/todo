@@ -39,5 +39,5 @@ It is open source in case anyone wants to know what fun things I've been up to!
         * - [ ] Learn Style Transfer of images
         * - [ ] Implement
         
-# Tags
+#### Tags
 personal
