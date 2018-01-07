@@ -13,19 +13,15 @@ It is open source in case anyone wants to know what fun things I've been up to!
         * - [ ] start storing information
         * - [ ] create front end
         * - [ ] think more... 
-    * - [ ] Add front end
-        * - [ ] add readme parsing for project pages
+    * - [x] Add front end
+        * - [x] add readme parsing for project pages
 * - [ ] Draft a proposal for Linguistics Research (Goal December/February)
     * - [ ] Come up with idea for linguistics research
     * - [ ] Read more linguistics books
-* - [ ] Send job applications out
-    * - [ ] Pixar
 * - [ ] Read
     * - [ ] Fundamentals of Number Theory
     * - [ ] Hamilton
     * - [ ] The Source
-* - [x] COGS 181
-    * - [x] Final project
 * - [ ] CHEI Lab
     * - [x] Presentation (October 31st)
     * - [ ] find 3D model comparison representation
