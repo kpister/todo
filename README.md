@@ -24,8 +24,7 @@ It is open source in case anyone wants to know what fun things I've been up to!
 * - [ ] Bookies
     * - [ ] Website Drafts
     * - [ ] Scrape Oddsmaker
-* - [ ] PNorm
-    * - [ ] [pnorm](https://github.com/kpister/pnorm)
-        
+* - [ ] [PNorm](https://github.com/kpister/pnorm)
+
 #### Tags
 personal
